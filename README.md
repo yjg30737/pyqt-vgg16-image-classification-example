@@ -1,9 +1,21 @@
 # pyqt-vgg16-image-classification-example
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/55078043/229002952-9afe57de-b0b6-400f-9628-b8e0044d3f7b.png" width="150px" height="150px"><br/><br/>
+  
+  [![](https://dcbadge.vercel.app/api/server/cHekprskVE)](https://discord.gg/cHekprskVE)
+</div>
+
 Example of using Image classification with VGG16 in PyQt5
 
 Kaggle Notebook:
 
 https://www.kaggle.com/code/yoonjunggyu/pytorch-using-vgg16-to-image-classification
+
+This is pretty much same code with <a href="https://github.com/yjg30737/pyqt-pytorch-image-classification-gui.git">pyqt-pytorch-image-classification-gui</a>.
+
+The important difference is that this uses an already existing model. VGG16 is one of the representative models for image classification and already possesses the ability to distinguish many objects.
+
+This shows the implementation of the VGG16 image classification function in PYQT. It displays not only the label with the highest prediction value (correct answer) but also the top 5 labels.
 
 ## Preview
 1. Umbrella
