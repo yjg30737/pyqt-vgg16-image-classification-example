@@ -7,10 +7,6 @@
 
 Example of using Image classification with VGG16 in PyQt5
 
-Kaggle Notebook:
-
-https://www.kaggle.com/code/yoonjunggyu/pytorch-using-vgg16-to-image-classification
-
 This is pretty much same code with <a href="https://github.com/yjg30737/pyqt-pytorch-image-classification-gui.git">pyqt-pytorch-image-classification-gui</a>.
 
 The important difference is that this uses an already existing model. VGG16 is one of the representative models for image classification and already possesses the ability to distinguish many objects.
@@ -25,3 +21,9 @@ This shows the implementation of the VGG16 image classification function in PYQT
 2. Lion
 
 ![image](https://github.com/yjg30737/pyqt-vgg16-image-classification-example/assets/55078043/4a57ea57-6e6b-4f28-9f3f-f48a8fa903f4)
+
+## See Also
+
+Kaggle Notebook:
+
+https://www.kaggle.com/code/yoonjunggyu/pytorch-using-vgg16-to-image-classification
