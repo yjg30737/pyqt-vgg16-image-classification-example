@@ -13,6 +13,17 @@ The important difference is that this uses an already existing model. VGG16 is o
 
 This shows the implementation of the VGG16 image classification function in PYQT. It displays not only the label with the highest prediction value (correct answer) but also the top 5 labels.
 
+## Requirements
+* PyQt5 >= 5.14
+* torch
+* torchvision
+* numpy
+
+## How to Run
+1. git clone ~
+2. pip install -r requirements.txt
+3. python main.py
+
 ## Preview
 1. Umbrella
 
