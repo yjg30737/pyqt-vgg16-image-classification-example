@@ -1,10 +1,4 @@
 # pyqt-vgg16-image-classification-example
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/55078043/229002952-9afe57de-b0b6-400f-9628-b8e0044d3f7b.png" width="150px" height="150px"><br/><br/>
-  
-  [![](https://dcbadge.vercel.app/api/server/cHekprskVE)](https://discord.gg/cHekprskVE)
-</div>
-
 Example of using Image classification with VGG16 in PyQt5
 
 This is pretty much same code with <a href="https://github.com/yjg30737/pyqt-pytorch-image-classification-gui.git">pyqt-pytorch-image-classification-gui</a>.
